@@ -1,0 +1,3 @@
+This is a c++ Solution with SDL already setted up for drawing on screen It has already setted up the Linker, external Libs, etc. It also contains SDL-Image & Text, with clases with implementations you can call for drawing, Displaying text or displaying Images, plus Gamestates with the Init, Draw & update States. Also An example of a GameState called "Game". It also contains data Structures made by Myself, feel free to use this project for understanding how to use SDL or a Structure of a game.
+
+Also feel free to contribute to the project
